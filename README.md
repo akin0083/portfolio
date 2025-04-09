@@ -42,7 +42,7 @@ I focused on using reusable CSS variables for colors and consistent spacing acro
 
 ##  Assets & Resources Used
 
-### 🔧 Frameworks & Libraries:
+### Frameworks & Libraries:
 - [Bootstrap 5.3.3](https://getbootstrap.com/)
 - [Font Awesome 6.5](https://fontawesome.com/)
 - [Google Fonts - Poppins, Roboto, Bitter](https://fonts.google.com/)
